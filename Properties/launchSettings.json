@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MondrianGeneralActivateTools (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MondrianGeneralActivateTools (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

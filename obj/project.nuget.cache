@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/VvEIaWOlA=",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Project\\MondrianGeneralActivateTools\\MondrianGeneralActivateTools\\MondrianGeneralActivateTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.web.webview2\\1.0.3719.77\\microsoft.web.webview2.1.0.3719.77.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windows.ai.machinelearning\\2.5.96\\microsoft.windows.ai.machinelearning.2.5.96.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.28000.2957\\microsoft.windows.sdk.buildtools.10.0.28000.2957.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windows.sdk.buildtools.msix\\1.7.251221100\\microsoft.windows.sdk.buildtools.msix.1.7.251221100.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windows.sdk.buildtools.winapp\\0.8.0\\microsoft.windows.sdk.buildtools.winapp.0.8.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk\\2.7.0\\microsoft.windowsappsdk.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.ai\\2.7.0\\microsoft.windowsappsdk.ai.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.base\\2.7.0\\microsoft.windowsappsdk.base.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.dwrite\\2.7.0\\microsoft.windowsappsdk.dwrite.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\2.7.0\\microsoft.windowsappsdk.foundation.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.interactiveexperiences\\2.7.0\\microsoft.windowsappsdk.interactiveexperiences.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.ml\\2.7.0\\microsoft.windowsappsdk.ml.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.runtime\\2.7.0\\microsoft.windowsappsdk.runtime.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.search\\2.7.0\\microsoft.windowsappsdk.search.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.widgets\\2.7.0\\microsoft.windowsappsdk.widgets.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsappsdk.winui\\2.7.0\\microsoft.windowsappsdk.winui.2.7.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.87\\microsoft.windows.sdk.net.ref.10.0.26100.87.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.15\\microsoft.aspnetcore.app.runtime.win-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\xings\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.15\\microsoft.netcore.app.runtime.win-x64.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
